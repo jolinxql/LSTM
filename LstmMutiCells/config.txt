@@ -1,0 +1,10 @@
+batchSize=20
+epochNum=200
+hiddenUnits=10
+useBatchAdapt=0
+weightRange=0.5
+learningRate=0.1
+l2_reg=0.001
+momentum=0.7
+gateActiFunc=sigm
+statActiFunc=sigm
