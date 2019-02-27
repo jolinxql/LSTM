@@ -1,2 +1,2 @@
-# LSTM
-My basic and multi-cell LSTM implementation according to Alex's tutorial
+Follow Alex's tutorial
+https://arxiv.org/pdf/1308.0850.pdf
